@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0175C2&height=220&section=header&text=Mohamed%20Abdallah&fontSize=48&fontColor=ffffff&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Apps&descAlignY=68&descSize=18)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Apps;Firebase+%2B+REST+APIs;From+Figma+to+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0122C2&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Cross-Platform+Mobile+Apps;Firebase+%2B+REST+APIs;From+Figma+to+Production" alt="Typing SVG" />
 </p>
 
 ---
